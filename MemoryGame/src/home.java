@@ -11,7 +11,7 @@ public class home
 {
 	public static void main(String [] args)
 	{
-		firstpage f1= new firstpage();
+		new firstpage();
 	}
 }
 class firstpage extends JFrame implements ActionListener
